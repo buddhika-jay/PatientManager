@@ -1,11 +1,9 @@
-package model;
+package com.buddhikajay.model;
 
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
-import sun.java2d.pipe.SpanShapeRenderer;
 
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 /**
  * Created by buddhika on 4/3/15.
